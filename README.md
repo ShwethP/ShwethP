@@ -88,5 +88,5 @@
 
 # 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: https://linkedin.com/in/Shweta Patil
 - GitHub: https://github.com/ShwethP
